@@ -25937,5 +25937,15 @@
         "domains": [
             "sdamgia.ru"
         ]
+    },
+    
+     {
+        "name": "SkandiShop",
+        "url": "https://www.skandishop.com",
+        "difficulty": "easy",
+        "notes": "Contact the customer support and ask for customer detail deletion, they should confirm the deletion via email.",
+        "domains": [
+            "skandishop.com",
+            "www.skandishop.com/policies/terms-of-service"
+        ]
     }
-]
